@@ -1,2 +1,1 @@
-# monty
-Monty-group project
+Monty-group project(Oketoye Odunayo and Emmanuel Nwogwugwu)
